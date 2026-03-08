@@ -8,8 +8,7 @@
 
 ```
 machine-learning/
-│
-├── notebooks/
+notebooks/
 │   ├── 1_standard_deviation.ipynb
 │   ├── 2_standard_deviation.ipynb
 │   ├── 3_minmax_scaler.ipynb
@@ -22,8 +21,8 @@ machine-learning/
 │   ├── 10_pipelines_creating.ipynb
 │   └── 11_comple_case_analysis.ipynb
 │
-├── datasets/                  # CSV / Excel files used in notebooks
-├── requirements.txt
+|
+|
 └── README.md
 ```
 
@@ -151,6 +150,6 @@ Feel free to fork it and use it for your own ML journey!
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
+**AKASH**  
 Learning Machine Learning one notebook at a time. 🚀  
 [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
